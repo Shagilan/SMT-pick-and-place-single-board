@@ -84,4 +84,4 @@ The working of the ETS SMT MATE-660 SMT pick and place machine follows a sequent
 <img width="754" height="758" alt="image" src="https://github.com/user-attachments/assets/1a6667df-6356-4adf-921c-6f949b7db457" />
 
 # Result
-
+THUS THE  automatically pick and  place the SMD electronic Succesfully implement components a single bare PCB accurately using an SMT pick-and-place machine.
